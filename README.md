@@ -1,1 +1,1 @@
-# Big-Mart-Sales-Prediction-Using-ANN
+# Sales-Prediction-Using-Artificial Neural Network
